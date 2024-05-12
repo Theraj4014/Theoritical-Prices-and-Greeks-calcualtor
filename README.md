@@ -1,4 +1,4 @@
-Options Analytics Tool
+#Options Analytics Tool
 Overview
 The Options Analytics Tool is a Python-based project designed to analyze options trading data and calculate option Greeks and implied volatility (IV) values using the Black-Scholes model. The project automates the process of downloading daily market data, combining it, performing analytics, and uploading the results to a SQL database.
 
