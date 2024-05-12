@@ -17,17 +17,17 @@ Uploads the analyzed data to a SQL database for storage and retrieval.
 ### option_strategy_payoffs.py: Calculates the payoffs for various option trading strategies.
 ### payoff_charts.py: Generates payoff charts for visualizing option strategy payoffs.
 ## Usage
-### Setup: Ensure Python and required dependencies are installed (listed in requirements.txt).
-Configuration: Set up database connection details in database_connection.py.
-Execution: Run main.py to start the analysis process.
-Results: Analyzed data, calculated Greeks, IV values, and payoff charts will be available for further analysis or visualization.
-Dependencies
+- Setup: Ensure Python and required dependencies are installed (listed in requirements.txt).
+- Configuration: Set up database connection details in database_connection.py.
+- Execution: Run main.py to start the analysis process.
+- Results: Analyzed data, calculated Greeks, IV values, and payoff charts will be available for further analysis or visualization.
+## Dependencies
 Python 3.x
 Libraries listed in requirements.txt
-Contributors
+## Contributors
 [Dhiraj Solanki]
 
 
-Acknowledgements
+## Acknowledgements
 The Options Analytics Tool utilizes the Black-Scholes model for options pricing, which was developed by Fischer Black and Myron Scholes.
 Special thanks to [Ronak Monndra sir and Trading Campus ltd.)
