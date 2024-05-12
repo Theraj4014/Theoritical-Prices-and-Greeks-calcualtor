@@ -1,0 +1,10 @@
+QuantLib
+pandas
+numpy
+sqlalchemy
+multiprocessing
+concurrent.futures
+requests
+mysql-connector-python
+plotly
+matplotlib
