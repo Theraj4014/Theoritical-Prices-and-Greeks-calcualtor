@@ -42,6 +42,8 @@ The Options Analytics Tool is a Python-based project designed to analyze options
 
 The Options Analytics Tool utilizes the Black-Scholes model for options pricing, which was developed by Fischer Black and Myron Scholes.
 Special thanks to [Ronak Monndra sir and Trading Campus Ltd.).
+## License
 
+This project is licensed under the [MIT License](LICENSE.md).
 ## Description of Payoff charts
 ![image](https://github.com/Theraj4014/Theoritical-Prices-and-Greeks-calcualtor/assets/123242882/d496bdff-8830-4791-a0ed-db498936c94a)
